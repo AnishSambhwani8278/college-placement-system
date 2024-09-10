@@ -5,5 +5,5 @@ Register students and companies
 View registered students and companies
 Edit student and company details
 Match students with companies based on specific criteria (CGPA, skills, location)
-Easily sort students by CGPA
+
 The system uses a basic console interface and supports multiple features to simulate a real-world placement system.
